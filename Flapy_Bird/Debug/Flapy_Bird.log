@@ -1,0 +1,21 @@
+﻿  Main.cpp
+c:\users\asus tuf\source\repos\flapy_bird\flapy_bird\gamecontroller.h(73): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus tuf\source\repos\flapy_bird\flapy_bird\gamecontroller.h(83): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus tuf\source\repos\flapy_bird\flapy_bird\main.cpp(46): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\asus tuf\source\repos\flapy_bird\flapy_bird\main.cpp(50): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\asus tuf\source\repos\flapy_bird\flapy_bird\main.cpp(56): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\asus tuf\source\repos\flapy_bird\flapy_bird\main.cpp(57): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\asus tuf\source\repos\flapy_bird\flapy_bird\main.cpp(64): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\asus tuf\source\repos\flapy_bird\flapy_bird\main.cpp(68): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\asus tuf\source\repos\flapy_bird\flapy_bird\main.cpp(70): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\asus tuf\source\repos\flapy_bird\flapy_bird\main.cpp(80): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\asus tuf\source\repos\flapy_bird\flapy_bird\main.cpp(186): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Flapy_Bird.vcxproj -> C:\Users\Asus Tuf\source\repos\Flapy_Bird\Debug\Flapy_Bird.exe
